@@ -1,3 +1,1 @@
-const somevar = 1;
-
-console.log(somevar);
+console.log(1);
